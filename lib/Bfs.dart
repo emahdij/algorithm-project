@@ -88,7 +88,8 @@ class Bfs {
     return path;
   }
 
-  int getExpanded(){
+  int getExpanded() {
     return expanded;
   }
+  
 }
