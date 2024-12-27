@@ -1,16 +1,28 @@
-# ai_p
+# Algorithm Project 
 
-A new Flutter project.
+## Overview 
+The **Algorithm Project**  was developed as part of a algorithm course at the university. This project showcases path planning within a maze environment using three distinct algorithms: 
+- **Breadth-First Search (BFS)**
+ 
+- **Iterative Deepening Depth-First Search (IDDS)**
+ 
+- **A\* (Astar)**
 
-## Getting Started
+## Features 
+ 
+- **Multiple Algorithms:**  Users can select between BFS, IDDS, and A* for pathfinding.
+ 
+- **Interactive Maze Generation:**  Generate mazes with a specified number of walls either randomly or manually.
 
-This project is a starting point for a Flutter application.
+## Usage 
+ 
+1. **Select Algorithm:**  Upon launching the application, choose the desired pathfinding algorithm from the available options.
+ 
+2. **Set Parameters:**  Customize the number of walls and the cost associated with each movement direction (up, down, left, right).
+ 
+3. **Generate Maze:**  Create a maze either randomly or manually by placing walls, start, and target points.
+ 
+4. **Run Pathfinding:**  Execute the selected algorithm to visualize the path from the start to the target.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Access 
+You can access the project's output and web interface [here](https://algorithm.mehdijafarpour.ir/build/web/index.html) .
