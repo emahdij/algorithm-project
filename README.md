@@ -17,12 +17,10 @@ The **Algorithm Project**  was developed as part of a algorithm course at the un
 ## Usage 
  
 1. **Select Algorithm:**  Upon launching the application, choose the desired pathfinding algorithm from the available options.
+  
+2. **Generate Maze:**  Create a maze either randomly or manually by placing walls, start, and target points.
  
-2. **Set Parameters:**  Customize the number of walls and the cost associated with each movement direction (up, down, left, right).
- 
-3. **Generate Maze:**  Create a maze either randomly or manually by placing walls, start, and target points.
- 
-4. **Run Pathfinding:**  Execute the selected algorithm to visualize the path from the start to the target.
+3. **Run Pathfinding:**  Execute the selected algorithm to visualize the path from the start to the target.
 
 ## Access 
 You can access the project's output and web interface [here](https://algorithm.mehdijafarpour.ir/build/web/index.html) .
